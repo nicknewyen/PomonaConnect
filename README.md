@@ -1,7 +1,9 @@
 HOW TO RUN APPLICATION
 
 Step 1: run npm install in both root folder and client folder
+
 Step 2: Create a default.json file in the config folder. 
+
 Step 3: Inside the default.json file, include the following:
 
 {
@@ -33,3 +35,5 @@ Users will be able to:
     Create a post 
 
     Like/Dislike a post from another user
+
+    Link social accounts to their profile 
